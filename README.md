@@ -32,4 +32,4 @@ Probando 8.8.8.8:53... OK
 1. Clona el repositorio o descarga el archivo.
 2. Ejecuta el script con Python:
    ```bash
-   python ip_port_connection_tester.py
+   MassiveTelnet.py

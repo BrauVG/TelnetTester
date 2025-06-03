@@ -1,4 +1,4 @@
-# IP Port Connection Tester
+# tester masivo de puertos
 
 Herramienta simple en Python para verificar la conectividad a múltiples direcciones IP y puertos especificados por el usuario.
 
